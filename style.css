@@ -22,6 +22,7 @@ body {
 
 #main img {
   height: 75vh;
+  width: 50vw;
   z-index: 1;
   border-radius: 10px;
 
