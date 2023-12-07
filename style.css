@@ -21,7 +21,7 @@ body {
 }
 
 #main img {
-  height: 500px;
+  height: 75vh;
   z-index: 1;
   border-radius: 10px;
 
@@ -39,7 +39,7 @@ body {
 
 #scroll-div1 h1 {
   display: inline-block;
-  font-size: 130px;
+  font-size: 20vh;
   font-family: 'Roboto', sans-serif;
   font-weight: 800;
   text-transform: uppercase;
@@ -68,7 +68,7 @@ body {
 
 #scroll-div2 h1 {
   display: inline-block;
-  font-size: 130px;
+  font-size: 20vh;
   font-family: 'Roboto', sans-serif;
   font-weight: 800;
   text-transform: uppercase;
@@ -100,7 +100,7 @@ body {
 
 #scroll-div3 h1 {
   display: inline-block;
-  font-size: 130px;
+  font-size: 20vh;
   font-family: 'Roboto', sans-serif;
   font-weight: 800;
   text-transform: uppercase;
